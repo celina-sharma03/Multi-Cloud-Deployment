@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MultiCloud Deployment using Terraform
 
 This Terraform project is designed to manage infrastructure across multiple cloud providers, including AWS, Azure, and GCP. It automates the deployment of various resources such as virtual machines, storage accounts, and databases across these platforms.
@@ -59,3 +60,6 @@ To deploy the infrastructure, follow these steps:
 
    ```sh
    terraform destroy
+=======
+# Multi-Cloud-Deployment
+>>>>>>> a718403eb80e82e1424a9cb163b815122aeed616
